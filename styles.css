@@ -18,3 +18,9 @@ body {
     background-color: white;
     color: var(--desaturated-blue);
 }
+
+.title {
+    color: var(--dark-blue);
+    font-weight: 900;
+    font-size: 32px;
+}
