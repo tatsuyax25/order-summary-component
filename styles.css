@@ -66,3 +66,7 @@ body {
     font-size: 0.9rem;
     border-radius: 12px;
 }
+
+.proceed-button:hover {
+    opacity: 0.8;
+}
