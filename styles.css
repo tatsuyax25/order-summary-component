@@ -19,6 +19,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: var(--pale-blue);
+    font-size: 16px;
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 16px;
 }
 
 .card {
@@ -26,6 +29,7 @@ body {
     background-color: white;
     color: var(--desaturated-blue);
     border-radius: 20px;
+    overflow: hidden;
 }
 
 .title {
@@ -40,6 +44,10 @@ body {
 
 .container {
     padding: 30px;
+}
+
+.container > * {
+    margin: 13px 0;
 }
 
 .order-description {
