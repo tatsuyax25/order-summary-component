@@ -38,3 +38,7 @@ body {
 .container {
     padding: 30px;
 }
+
+.order-description {
+    line-height: 25px;
+}
