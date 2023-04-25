@@ -82,3 +82,7 @@ body {
     border-radius: 12px;
     cursor: pointer;
 }
+
+.cancel-button:hover {
+    color: black;
+}
