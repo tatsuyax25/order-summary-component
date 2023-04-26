@@ -65,6 +65,12 @@ body {
     align-items: center;
 }
 
+.plan-container a {
+    color: var(--bright-blue);
+    font-size: 13px;
+    font-weight: 700;
+}
+
 button {
     width: 100%;
     border: none;
