@@ -76,6 +76,10 @@ body {
     text-decoration: none;
 }
 
+.plan-container strong {
+    color: var(--dark-blue);
+}
+
 button {
     width: 100%;
     border: none;
