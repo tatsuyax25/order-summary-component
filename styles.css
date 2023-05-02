@@ -71,6 +71,11 @@ body {
     font-weight: 700;
 }
 
+.plan-container a:hover {
+    opacity: 0.8;
+    text-decoration: none;
+}
+
 button {
     width: 100%;
     border: none;
